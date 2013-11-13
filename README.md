@@ -10,4 +10,4 @@ The site is also up [on Heroku](http://pictr.herokuapp.com).
 
 Try it out!
 
-Pictures uploaded through the Paperclip gem are not stored with Heroku, so you may notice broken image links from other users.
+Pictures are now hosted on Amazon S3.
